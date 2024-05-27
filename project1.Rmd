@@ -1,0 +1,759 @@
+---
+title: "Project1"
+author: "Noone"
+date: "1/22/2020"
+output: html_document
+---
+<!--- Begin styling code. --->
+<style type="text/css">
+/* Whole document: */
+body{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 12pt;
+}
+h1.title {
+  font-size: 38px;
+  text-align: center;
+}
+h4.author {
+  font-size: 18px;
+  text-align: center;
+}
+h4.date {
+  font-size: 18px;
+  text-align: center;
+}
+</style>
+<!--- End styling code. --->
+
+<font size="6"> Suggestions on Producing Board Game in China </font>
+
+If you want to earn money through building your own broad game, you should publish your game especially in China. Why? Broad game is already a traditional industry in foreign countries, and there are many excellent games, especially the type of strategy; however, relative circle in China is very small. So take your chance.
+
+Here I conclude six gists you should pay attention to, because it’s a hard start if you want money in your pocket this way.
+
+### **Be Prepared for your expansion**
+
+The following two graphics show the comparison of ratings between board game and board game expansion. 
+
+<img src = "rating_year1.jpg" alt="some text"  width="500" height="500">
+<img src = "rating_year2.jpg" alt="some text"  width="750" height="650">
+
+##### **Two graphs from session 1, corresponding to rating_year1 and rating_year2**
+
+These two graphics show the relationship between users’ rating and the year of publishing. You might be not able to see the distinction of rating on the first graph cause they are mostly overlapped, but notice those three points, they stand for the series of game “Realms” and its expansion. It’s clear that these three expansions were published later than its board game; however, users graded them a better score. Thus, the overall score would be higher, which cause that users buy your board game just because of your expansions. 
+
+And it always works. See the second graph. It’s very easy to conclude the mean score of expansion is greater than the mean of just board game. Since expansion is one of components of a board game, you cannot ignore it.
+
+### **Pay Attention to The Circumstance of The World**
+
+If you don’t know what to choose as your game topic. Look around the world. You might find something useful.
+
+<img src = "4kinds.jpg" alt="some text"  width="500" height="500">
+
+
+##### **graph from session 2, corresponding to amount_wargame**
+
+This graph show the relationship between the year of publishing and types of game, aiming to show you the importance of adapting to the times. The density means how many of that type of board game were published during that period of years.
+
+On September 2, 1945, the Japanese government signed an unconditional surrender certification to the United States, China, Britain and the Soviet Union on the deck of the American warship Missouri. After that, the Second World War came to the end and all involved countries went into a period of economy recovery. Economic Board game came to the world, but with a little influence. Then, people were trying to imagine the future world, the fantasy board game came up and reach the climax around 1980, but it went down quickly. Board games with the theme of western America did have some influences for kind of reasons, but it was inconsistent. However, war board game like a crane standing among chickens, although they were not published too much, they took over the market and kept that situation to the present. The point I would like to make right here is game might need to reflect the world.
+
+<img src = "warcomp.jpg" alt="some text"  width="500" height="500">
+<img src = "amount_wargame_rating_WW.jpg" alt="some text"  width="500" height="500">
+
+
+##### **graph from session 2, corresponding to amount_wargame_WW and warcomp**
+
+See how many board games were associated with World War II and that increasing rate of ratings?
+The topic of war will never end. 
+
+
+### **Consider the complexity of your board game.**
+
+Your want your game to be either extremely simple or appropriate difficult. 
+The following three graphics show why it is.
+
+<img src = "gameComplex_gametype.jpg" alt="some text"  width="700" height="600">
+<img src = "gameRatings_gametype.jpg" alt="some text"  width="700" height="600">
+
+
+##### **graph from session 3, corresponding to gameComplex_gametype and gameRatings_gametype**
+
+Expansion as a part of games, it has a whole new continent with a new race and a whole other story. In one word, expansion has more features, which cause that expansion has higher complexity and this brings higher rating. These two graphics show the relationship with complexity and type of game, and the relationship with rating and game type respectively. That red little point stands for mean value. It’s pretty straight forward that expansion is better in the class of complexity. 
+
+How difficult it should be?
+
+<img src = "gameComplex_ratings.jpg" alt="some text"  width="500" height="500">
+
+
+##### **graph from session 3, corresponding to gameComplex_ratings**
+
+This graph shows the relationship between complexity and ratings.
+You can just drop off the idea of complexity, because some players do love simple game than hard game. It’s much easy for them to get started. Or, push your game to the level 3 or level 4 of complexity. That makes you game more challenge without being tedious. It’s easy to say that in the graph of expansion, there is a turning point at level 4 of complexity, which after rating goes down. In graph of board game, although the rating for level 5 complexity is higher than level 4, there are also more lower-rated games.
+
+
+### **Maybe one-player form should be in your outline**
+
+For some group of people, maybe it’s hard for them and their friends to be together, or maybe some people want to play board game to kill time. In this perspective, you should consider the minimum players of normally operating the game. 
+
+<img src = "coopgame_rating.jpg" alt="some text"  width="500" height="500">
+
+
+##### **graph from session 4, corresponding to coopgame_rating**
+
+This graph shows the relationship between minimum players and rating.
+
+At present, most of the table games in the market are co-operative and the score fo table games that one person can play is higher than the bottom limit of table games that many people can play. 
+
+Based on the graph, the game with standard of minimum players 1 have not-bad lowest score and great highest score. Compare to minimum-players-5 and minimum-players-6 board game, though they have greater lowest score, their highest score were constrained.
+
+
+### **Give players a break**
+
+Here is actually an another reason for not overcomplicating your board game.
+
+<img src = "timeplaying_rating.jpg" alt="some text"  width="500" height="500">
+
+
+##### **graph from session 5, corresponding to timeplaying_rating**
+
+
+These two graphs show the relationship between playing time and ratings overall on both board game and related expansion. From the red curve line, we can conclude that the higher the complexity is, the longer the playing time is, because of kinds of features of expansion. I understand all game producers would like to let players play their games, but have you ever though plays might quit just because of it takes too long?
+
+<img src = "timeplaying_complexity.jpg" alt="some text"  width="500" height="500">
+
+
+##### **graph from session 5, corresponding to timeplaying_complexity**
+
+From this graph, Which cause that the longer the playing time is, the lower the rating would be.
+
+
+### **Youshould understand players psychologically**
+
+We first distinguish players according to different age groups. 
+
+<img src = "minage_rating.jpg" alt="some text"  width="500" height="500">
+
+
+##### **graph from session 6, corresponding to minage_rating**
+
+It can be seen that there are some rules between minimum age and board game, but they are not obvious. The overall distribution of the average time length can be roughly estimated as normal distribution. This shows that board game mainly attract players aged 8 to 12, so I suggest you consider the characteristics of players aged 8 to 12 when designing games.
+
+In what aspect?
+
+<img src = "category_count_age8.jpg" alt="some text"  width="700" height="700">
+<img src = "category_count_age10.jpg" alt="some text"  width="700" height="700">
+<img src = "category_count_age12.jpg" alt="some text"  width="700" height="700">
+
+
+##### **graph from session 6, corresponding to category_count_age8, category_count_age10, and category_count_age12**
+
+The following three graphics conclude the numbers of each them of board game. There are reasons for the top 10 games in each age. Maybe to players age 8-10, they prefer abstract and animal games because they want to see dynamic change. To players around 12, they prefer war game as you can see war-related game all have a large circulation because they’re looking for excitement and enjoy the achievement of their logic ability.
+
+So, Be thoughtful.
+
+```{r, include = FALSE, echo = FALSE}
+# Code Appendix
+
+#-----------------------------------------------------------------------------------------------------------------------------------------
+library("tidyverse")
+library("splitstackshape")
+library("ggplot2")
+library("ggpubr")
+# Create dataframe which only includes "yearpublished" over 1950 and "users' rating" over 25
+data_boardgame <- read.csv("https://raw.githubusercontent.com/bryandmartin/STAT302/master/docs/Projects/project1_bgdataviz/board_game_raw.csv", stringsAsFactors = FALSE) %>%
+  filter(yearpublished >= 1950 & users_rated >= 25) %>%
+  # Split category by "," in horizontal direction
+  cSplit(splitCols = c("category","mechanic"), sep = c(","), direction = "wide")
+
+
+
+
+#-----------------------------------------------------------------------------------------------------------------------------------------
+# Session 1
+# Set plot users'rating and published year
+rating_year1 <- ggplot(data = data_boardgame,
+       aes(x = yearpublished,
+           y = average_rating,
+           # Colored by game's type
+           color = game_type)) +
+  # Fade points
+  geom_point(alpha = 0.5) +
+  # Points out four relative games: 1 boardgame, 3 expansion of boardgame
+  geom_point(data = data_boardgame[data_boardgame$game_id == 68606,],color = "red", size =3)+
+  annotate(geom = "text", x = 2010, y = 5.5, label =  "Game") +
+  geom_point(data = data_boardgame[data_boardgame$game_id == 154310,],color = "blue", size =3)+
+  annotate(geom = "text", x = 2019, y = 6, label =  "Exps") +
+  geom_point(data = data_boardgame[data_boardgame$game_id == 142728,],color = "blue", size =3)+
+  geom_point(data = data_boardgame[data_boardgame$game_id == 152417,],color = "blue", size =3)+
+
+  # Add a trendline
+  geom_smooth(aes(group = game_type),
+              se = FALSE, size = 0.5,
+              color = "black",
+              method = "loess") +
+  
+  # Set up titles, subtitles, legend of paragraph
+  labs(subtitle = "Ratings for boardgame & boardgame expansion from 1950 to present",
+       title = "If your board game got a lower score, expansion is the savior",
+       x = "year published",
+       y = "Users' rating",
+       legend = "Game Type",
+       color = "Game Type",
+       caption = "Resouce: Boardgamegeek.com") +
+  
+  # Set font and size of title and subtile and spacing between each graph
+  theme(plot.title = element_text(hjust = 0.3,
+                                  face = "bold",
+                                  size = 14),
+        plot.subtitle = element_text(hjust = 0.5))
+  
+
+# Set up label that contains new board name
+labels <- c(boardgame = "Board Game", boardgameexpansion = "Board Game Expansion")
+ 
+# Set plot by users' rating and yearbulished
+# This is a seperate version of rating_year1
+rating_year2 <- ggplot(data = data_boardgame,
+       aes(x = yearpublished,
+           y = average_rating,
+           # Colored by color
+           color = game_type)) +
+  # Fade points
+  geom_point(alpha = 0.5) +
+  # Points out four relative games: 1 boardgame, 3 expansion of boardgame
+  geom_point(data = data_boardgame[data_boardgame$game_id == 68606,],color = "red", size = 3) +
+  geom_point(data = data_boardgame[data_boardgame$game_id == 154310,],color = "blue", size = 3)+
+  geom_point(data = data_boardgame[data_boardgame$game_id == 142728,],color = "blue", size = 3)+
+  geom_point(data = data_boardgame[data_boardgame$game_id == 152417,],color = "blue", size = 3)+
+  # Seperate graph by game type
+  facet_wrap(~ game_type) +
+  
+  # Add trendline and set up
+  geom_smooth(aes(group = game_type),
+              se = FALSE, size = 0.5,
+              color = "black",
+              method = "loess") +
+  
+  # set up titles
+  labs(title = "If your board game got a lower score, expansion is the savior",
+       subtitle = "Ratings for boardgame & boardgame expansion from 1950 to present",
+       x = "year published",
+       y = "Users' rating",
+       legend = "Game Type",
+       caption = "Resouce: Boardgamegeek.com") +
+  
+  # Set font and size of title and subtile and spacing between each graph
+  theme(plot.title = element_text(hjust = 0.5,
+                                  face = "bold",
+                                  size = 14),
+        plot.subtitle = element_text(hjust = 0.5),
+        legend.position = "none",
+        panel.spacing = unit(0.5,"cm")) +
+   # Change the board name
+   facet_grid(. ~ game_type, labeller=labeller(game_type = labels))
+
+# Call graphics
+rating_year1
+rating_year2
+
+```
+
+```{r}
+#-----------------------------------------------------------------------------------------------------------------------------------------
+# Session 2
+# Set up dataframe by its category Wargame
+data_boardgame_war <- data_boardgame %>%
+  filter(category_01 == "Wargame" & (yearpublished >= 1950 & yearpublished <= 2014 ))
+# Set up dataframe by its category Economic
+data_boardgame_econ <- data_boardgame %>%
+  filter(category_01 == "Economic" & (yearpublished >= 1950 & yearpublished <= 2014 ))
+# Set up dataframe by its category American West
+data_boardgame_awest <- data_boardgame %>%
+  filter(category_01 == "American West" & (yearpublished >= 1950 & yearpublished <= 2014 ))
+# Set up dataframe by its category Fantasy
+date_boardgame_fant <- data_boardgame %>%
+  filter(category_01 == "Fantasy" & (yearpublished >= 1950 & yearpublished <= 2014 ))
+
+# Combine the following dataframe
+data_boardgame_4kinds <- rbind(data_boardgame_war, 
+                               data_boardgame_econ, 
+                               data_boardgame_awest,
+                               date_boardgame_fant)
+
+# Use histogram plot to draw relative published games
+amount_wargame <- ggplot(data = data_boardgame_4kinds,
+       aes(x = yearpublished,
+           color = category_01)) +
+  geom_histogram(aes(y= ..density..),
+                 bins = 20,
+                 color = "white",
+                 fill = "gray30",
+                 alpha = 0.5) +
+  # Seperate graph by new category_01
+  facet_wrap(~ category_01) +
+  # Add density line
+  geom_density(color = "black") +
+  # Set background white
+  theme_bw() +
+  # Set font and size of title and subtile
+  theme(plot.title = element_text(face = "bold",
+                                  size = 14),
+        axis.title.x = element_text(size = 12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(face = "bold"),
+        axis.text.y = element_text(face = "bold")) +
+  
+  # set up titles
+  labs(x = "Amount of Published games",
+       y = "Density of amount",
+       title = "Your board games need to adapt to the times",
+       subtitle = "Amount of 4 kinds of game published from 1950 to 2015",
+       caption = "Resouce: Boardgamegeek.com")
+
+# Create World War I dataframe
+data_boardgame_warWW1 <- data_boardgame %>%
+  filter(category_01 == "Wargame" & category_02 == "World War I" & (yearpublished >= 1950 & yearpublished <= 2015 & average_rating > 5.5))
+
+# Create World War II dataframe
+data_boardgame_warWW2 <- data_boardgame %>%
+  filter(category_01 == "Wargame" & category_02 == "World War II" & (yearpublished >= 1950 & yearpublished <= 2015 & average_rating > 5.5))
+
+# Combine these two dataframe
+date_boardgame_warWW <- rbind(data_boardgame_warWW1,data_boardgame_warWW2)
+
+
+# Boxplot. About WW2 war game and its mean value
+amount_wargame_rating_WW <- ggplot(data = data_boardgame_warWW2,
+       aes(x = yearpublished,
+           y = average_rating,
+           # Colored by game's type
+           color = game_type)) +
+  # Fade points
+  geom_point(alpha = 0.5) +
+
+  # Add a trendline
+  geom_smooth(se = FALSE, size = 0.5,
+              color = "black",
+              method = "loess") +
+    
+  # Set up titles, subtitles, legend of paragraph
+  labs(subtitle = "Ratings for boardgame & boardgame expansions with the theme of WWII",
+       title = "World War II has generated impact more than on just economy",
+       x = "year published",
+       y = "Users' rating",
+       legend = "Game Type",
+       color = "Game Type",
+       caption = "Resouce: Boardgamegeek.com") +
+  
+  # Set font and size of title and subtile and spacing between each graph
+  theme(plot.title = element_text(hjust = 0.3,
+                                  face = "bold",
+                                  size = 14),
+        plot.subtitle = element_text(hjust = 0.5))
+
+# Barplot
+amount_wargame_WW <- ggplot(data = date_boardgame_warWW, 
+                            aes(x= category_02)) +
+  geom_bar(stat = "count",
+           color = "black", 
+           fill = c("darkorchid4","brown4")) +
+  
+  # Set text and show the label of counts
+  geom_text(stat = 'count',
+            aes(label =..count.., vjust = -0.2)) +
+  # Set background white
+  theme_bw() +
+  
+  # Set up titles
+  labs(x = "Game's content",
+       y = "Counts",
+       title = "World War II has generated impact more than on just economy",
+       subtitle = "Counts of WW I and WW II games published from 1950 to 2010",
+       caption = "Resouce: Boardgamegeek.com") +
+  
+  # Set Set font and size of title and subtile
+  theme(plot.title = element_text(face = "bold",
+                                  size = 14),
+        axis.title.x = element_text(size = 12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(face = "bold"),
+        axis.text.y = element_text(face = "bold"))
+
+# Save graphics as pdf.
+
+
+#Call the following graphics
+amount_wargame
+amount_wargame_WW
+amount_wargame_rating_WW
+```
+
+```{r}
+#-----------------------------------------------------------------------------------------------------------------------------------------
+# Session 3
+#(ggpubr)
+
+# Plot. By game type and average complexity
+gameComplex_gametype <- ggplot(data = data_boardgame,
+                     aes(x = game_type, 
+                         y = average_complexity,
+                         group = game_type)) +
+  geom_boxplot(outlier.colour="snow4",
+               aes(color = game_type)) +
+  
+  # Show the mean value of boxplot 
+  stat_summary(fun.y=mean, geom="point", shape=20, size=4, color="red", fill="red") +
+  
+  # Set background white
+  theme_bw() +
+  
+  # Set up title
+  labs(title = "Proper difficulty is better",
+       subtitle = "complexity of game versus. game type",
+       x = "game type",
+       y = "complexity of game") +
+  
+  # Reverse the x-axis and y-axis
+  coord_flip() +
+  
+  # Set up title's font and size and positions
+  theme(plot.title = element_text(hjust = 0.5,
+                                  face = "bold",
+                                  size = 14))
+
+
+
+# Plot. By game type and average rating
+gameRatings_gametype <- ggplot(data = data_boardgame,
+                     aes(x = game_type, 
+                         y = average_rating,
+                         group = game_type)) +
+  geom_boxplot(outlier.colour="snow4",
+               aes(color = game_type)) +
+  
+  # Show the mean value of boxplot
+  stat_summary(fun.y=mean, geom="point", shape=20, size=4, color="red", fill="red") +
+  
+  # Set background white
+  theme_bw() +
+  
+  # Set up titles 
+  labs(title = "Proper difficulty is better",
+       subtitle = "Users'rating versus. game",
+       x = "game type",
+       y = "Users' rating",
+       caption = "Resouce: Boardgamegeek.com") +
+  
+  # Reverse x-axis and y-axis
+  coord_flip() +
+  
+  # Set up title's font and size and positions
+  theme(plot.title = element_text(hjust = 0.5,
+                                  face = "bold",
+                                  size = 14))
+
+# Set up labels for board name
+labels <- c(boardgame = "Board Game", boardgameexpansion = "Board Game Expansion")
+
+# Plot. average complexity by average rating
+gameComplex_ratings <- ggplot(data = data_boardgame,
+                                 aes(x = average_complexity,
+                                     y = average_rating,
+                                     # Grouped and colored by game type
+                                     group = game_type,
+                                     color = game_type)) +
+  # Seperate graphics by game type
+  facet_wrap(~ game_type) +
+  
+  # Fade points
+  geom_point(alpha = 1/5) + 
+  
+  # Add trendline
+  geom_smooth(aes(group = game_type),
+              se = FALSE, size = 1.0,
+              color = c("black"), method = "loess") +
+  
+  # Set background white
+   theme_bw() +
+  # Set up titles
+   labs(title = "Ratings versus game's complexity",
+        subtitle = "Usually, the more complexity a game is, the more higher rating it will be graded",
+       x = "Game complexity",
+       y = "Users' rating",
+       legend = "Game Type",
+       color = "Game Type",
+       caption = "Resouce: Boardgamegeek.com") +
+  # Set up titles' font and size
+  theme(plot.title = element_text(hjust = 0.5,
+                                  face = "bold",
+                                  size = 14),
+        # Remove ledengd
+        legend.position = "none",
+        # Change the space between each small graph
+        panel.spacing = unit(0.5,"cm"),
+        plot.subtitle = element_text(hjust = 0.5)) +
+   # Change board game
+   facet_grid(. ~ game_type, labeller=labeller(game_type = labels))
+# Save the graphics as pdf
+ ggsave(filename = "gameComplex_ratings.jpg", plot = gameComplex_ratings, height = 7, width = 7)
+ ggsave(filename = "gameComplex_gametype.jpg", plot = gameComplex_gametype, height = 7, width = 7)
+ ggsave(filename = "gameRatings_gametype.jpg", plot = gameRatings_gametype, height = 7, width = 7)
+gameComplex_gametype
+gameRatings_gametype
+gameComplex_ratings
+
+
+#-----------------------------------------------------------------------------------------------------------------------------------------
+# Session 4
+# Call library dplyr
+library("dplyr")
+
+# Create new dataframe that the first to the thrid mechanic is Co-operative play
+data_boardgame_coop <- data_boardgame %>%
+  filter(mechanic_01 == "Co-operative Play" | mechanic_02 == "Co-operative Play" | mechanic_03 == "Co-operative Play")
+
+# Plot. By minplaers and average rating.
+coopgame_rating <- ggplot(data = data_boardgame_coop,
+                          aes(x = minplayers,
+                              y = average_rating)) +
+  # jitter plot
+  geom_jitter(position = position_jitter(width = 0.01, height = 0), alpha = 1/10) +
+  
+  # Label the maximum and minimum value
+  stat_summary(fun.y = min, colour = "orangerred", geom = "point", size = 3) +
+  stat_summary(fun.y = max, colour = "royalblue", geom = "point", size = 3) +
+  stat_summary(aes(label = round(..y..,2)), fun.y = min,geom= "text", size=4, hjust = -0.3) +
+  stat_summary(aes(label = round(..y..,2)), fun.y = max,geom= "text", size=4, hjust = -0.3) +
+  # Set background white
+  theme_bw() +
+  # limit x-axis scale
+  xlim(1,6) +
+  
+  # Set titles' font and size
+  theme(plot.title = element_text(face = "bold",
+                                  size = 14),
+        axis.title.x = element_text(size = 12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(face = "bold"),
+        axis.text.y = element_text(face = "bold")) +
+  
+  # Set up titles
+  labs(x = "minimum players",
+       y = "Users' rating",
+       title = "'minimum players' is also a consideration ",
+       subtitle = "Co-operative boardgames that allow one people to play might fit the majority",
+       caption = "Resouce: Boardgamegeek.com")
+  
+# Call graphics
+coopgame_rating
+
+#  Save graphics
+ggsave(filename = "coopgame_rating.jpg", plot = coopgame_rating, height = 7, width = 7)
+#-----------------------------------------------------------------------------------------------------------------------------------------
+# Session 5
+# Set new dataframe by playingtime that's less than 240 and greater than 1
+data_boardgame_time <- data_boardgame %>%
+  filter(playingtime <= 240 & playingtime >= 1)
+# Plot. By average complexity and playing time
+timeplaying_complexity <- ggplot(data = data_boardgame_time,
+                             aes(x = average_complexity,
+                                 y = playingtime,
+                                 color = game_type)) + 
+  
+  # Point plot
+  geom_point(alpha = 0.08) +
+  # Add trendline
+  geom_smooth(color = "red") +
+  
+  # Set background white
+  theme_bw() +
+  
+  # Set up titles' font and size
+  theme(plot.title = element_text(hjust = 0.5,
+                                  face = "bold",
+                                  size = 14),
+        plot.subtitle = element_text(hjust = 0.5)) +
+  
+  # Set up titles
+  labs(x = "Game Complexity",
+       y = "playing time",
+       title = "Overcomplicated is a negative ",
+       subtitle = "Game complexity versus playing time",
+       caption = "Resouce: Boardgamegeek.com")
+  
+
+
+# Set up new dataframe by playingtime that's greater than 1 and less than 300
+data_boardgame_time <- data_boardgame %>%
+  filter(playingtime <= 300 & playingtime >= 1)
+
+# Plot. By playingtime and average rating
+timeplaying_rating <- ggplot(data = data_boardgame_time,
+                             aes(x = playingtime,
+                                 y = average_rating)) +
+  
+  # Point Plot
+  geom_point(alpha = 0.08) +
+  # Add a trendline
+  geom_smooth(color = "red") +
+  # Set background white
+  theme_bw() +
+  # Set up titles
+  labs(x = "playing time (unit: minutes)",
+       y = "Users' rating",
+       title = "Give players a break ",
+       subtitle = "playing time versus users's rating",
+       caption = "Resouce: Boardgamegeek.com") +
+  
+  # Set up titles' font and size
+  theme(plot.title = element_text(hjust = 0.5,
+                                  face = "bold",
+                                  size = 14),
+        plot.subtitle = element_text(hjust = 0.5))
+# Save graphics
+ggsave(filename = "timeplaying_rating.jpg", plot = timeplaying_rating, height = 7, width = 7)
+ggsave(filename = "timeplaying_complexity.jpg", plot = timeplaying_complexity, height = 7, width = 7)
+timeplaying_complexity
+timeplaying_rating
+
+#-----------------------------------------------------------------------------------------------------------------------------------------
+# Session 6
+library("dplyr")
+library("tidyr")
+
+# Create new dataframe that has minage greater than 0, less than 30 and amount of rated users over 0 but less than 15000
+data_boardgame_age <- data_boardgame %>%
+  filter(minage > 0 & minage <= 30 & users_rated < 15000)
+
+# Plot. By minage
+minage_rating <- ggplot(data = data_boardgame_age,
+                        aes(x = minage)) +
+  geom_histogram(binwidth = 1,
+                 color = "white") +
+  
+  # Limit x-axis scale
+  xlim(0,20) +
+  
+  # Set up titles' font and size
+  theme(plot.title = element_text(face = "bold",
+                                  size = 14),
+        axis.title.x = element_text(size = 12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(face = "bold"),
+        axis.text.y = element_text(face = "bold")) +
+  # Set up titles
+  labs(x = "minage of player",
+       y = "Counts on published game on each age ",
+       title = "Kids might be the main player of boardgame",
+       subtitle = "Set game a good start ",
+       caption = "Resouce: Boardgamegeek.com") +
+  
+  # Show the labels of each bin
+  geom_text(stat = 'count',
+            aes(label =..count.., vjust = -0.2))
+
+minage_rating
+
+
+
+# Create three new dataframes based on their minage
+data_boardgame_age8 <- data_boardgame %>%
+  filter(minage == 8 & category_01 != "NA" & category_01 != "Card Game" & category_01 != "Expansion for Base-game")
+
+data_boardgame_age10 <- data_boardgame %>%
+  filter(minage == 10 & category_01 != "NA" & category_01 != "Card Game" & category_01 != "Expansion for Base-game")
+
+data_boardgame_age12 <- data_boardgame %>%
+  filter(minage == 12 & category_01 != "NA" & category_01 != "Card Game" & category_01 != "Expansion for Base-game")
+
+data_boardgame_age3 <- data_boardgame %>%
+  filter(minage == 12 & category_01 != "NA" & category_01 != "Card Game" & category_01 != "Expansion for Base-game", minage == 8, minage == 10)
+
+# Plot. Age8. 
+category_count_age8 <- ggplot(data = data_boardgame_age8, 
+                         aes(fct_infreq(category_01))) +
+  geom_bar(stat = "count") +
+  
+  # Set background white
+  theme_bw() +
+  
+  # Set up title's font and size
+  theme(axis.text.x = element_text(size = 7,
+                                   angle = 90, 
+                                   hjust = 1,
+                                   vjust = 0.45,
+                                   face = "bold"),
+        axis.ticks.x = element_line(size=1,color="red"),
+        plot.title = element_text(face = "bold",
+                                  size = 14)) +
+  
+  # Set up titles
+  labs(x = "Game categories",
+       y = "Counts",
+       title = "Your game needs to be well-directed",
+       subtitle = "Number of games with minimum age 8",
+       caption = "Resouce: Boardgamegeek.com")
+
+
+# Plot. Age.10
+category_count_age10 <-  ggplot(data = data_boardgame_age10, 
+                                aes(fct_infreq(category_01))) +
+  geom_histogram(stat = "count") +
+  
+  # Set background white
+  theme_bw() +
+  
+  # Set up title's font and size
+  theme(axis.text.x = element_text(size = 7,
+                                   angle = 90, 
+                                   hjust = 1,
+                                   vjust = 0.45,
+                                   face = "bold"),
+        axis.ticks.x = element_line(size=1,color="red"),
+        plot.title = element_text(face = "bold",
+                                  size = 14)) +
+  # Set up titles
+  labs(x = "Game categories",
+       y = "Counts",
+       title = "Your game needs to be well-directed",
+       subtitle = "Number of games with minimum age 10",
+       caption = "Resouce: Boardgamegeek.com")
+
+  
+# Plot. Age12 
+category_count_age12  <- ggplot(data = data_boardgame_age12, 
+                                aes(fct_infreq(category_01))) +
+  geom_histogram(stat = "count") +
+  
+  # Set background white
+  theme_bw() +
+  
+  # Set titles' font and size
+  theme(axis.text.x = element_text(size = 7,
+                                   angle = 90, 
+                                   hjust = 1,
+                                   vjust = 0.45,
+                                   face = "bold"),
+        axis.ticks.x = element_line(size=1,color="red"),
+        plot.title = element_text(face = "bold",
+                                  size = 14)) +
+  
+  # Set titles
+  labs(x = "Game categories",
+       y = "Counts",
+       title = "Your game needs to be well-directed",
+       subtitle = "Number of games with minimum age 12",
+       caption = "Resouce: Boardgamegeek.com")
+
+# Graphics
+category_count_age8 
+category_count_age10
+category_count_age12
+
+# save graphics
+ggsave(filename = "category_count_age8.jpg", plot = category_count_age8, height = 7, width = 7)
+ggsave(filename = "category_count_age10.jpg", plot = category_count_age10, height = 7, width = 7)
+ggsave(filename = "category_count_age12.jpg", plot = category_count_age12, height = 7, width = 7)
+ggsave(filename = "minage_rating.jpg", plot = minage_rating, height = 7, width = 7)
+```
